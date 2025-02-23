@@ -8,7 +8,7 @@
 
 ## Overview  
 
-This repository provides a comprehensive real-time object tracking demo using OpenCV-based tracking networks with webcam input. It features the implementation of six different tracking algorithms: MIL, KCF, CSRT, DaSiamRPN, NanoTrackV2, and ViT, each offering unique strengths in terms of speed, accuracy, and robustness for various tracking scenarios.
+This repository provides a comprehensive real-time Single object tracking demo using OpenCV-based tracking networks with webcam input. It features the implementation of six different tracking algorithms: MIL, KCF, CSRT, DaSiamRPN, NanoTrackV2, and ViT, each offering unique strengths in terms of speed, accuracy, and robustness for various tracking scenarios.
 
 Additionally, this project integrates Samurai to evaluate the tracking accuracy on pre-recorded videos in Google Colab, allowing for in-depth performance analysis. The repository demonstrates how different tracking methods perform in real-world conditions and serves as a practical reference for real-time tracking applications in computer vision.
 
